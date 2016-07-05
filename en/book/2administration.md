@@ -91,3 +91,23 @@ This is not a tab of the administration but a link that is located above the tab
 By clicking this link, the module will start a series of maintenance tasks and checks on the tables it uses in the database.
 The module also uses a system of "cache" (on SQL queries) to improve its performance, click on this link will allow you to regenerate the cache.
 
+###About Us
+
+![](../assets/img000026.png)
+
+Here you can learn more about the module, who created it, and check out the "changelog"
+
+###Help
+
+![](../assets/img000027.png)
+
+In the Help tab you will get some basic info about the module.
+You will also have links to:
+
+- Tutorial
+- Translations
+- our support Forums on www.xoops.org, and 
+- our development area on GitHub, in case you would like to join the development team and contribute there
+
+> ![](../assets/info/important.png)   
+> Please remember: you don't have to be a developer to contribute to XOOPS. You can do translations, or you can write a tutorial like this one! 
