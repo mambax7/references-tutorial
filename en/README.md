@@ -12,7 +12,22 @@
 
 ## Module Purpose 
 
-This module manages in a form a list of references to some news
+XOOPS References is a module that will allow you to create an unlimited number of customer references, which you can categorize the way you want.
+
+The main advantage of this product compared to existing solutions in the market is its ease of implementation, since this module is operational in less than 15 minutes (installation and configuration)
+ 
+The key features of each reference:
+
+- RSS Feed of recent references
+- Modern display with accordion effect and "Lightview"
+- Choice of the text editor to use to create references
+- Automatic creation of thumbnails of each screenshot
+- Ability to use a keyword system (TAGS)
+- Possibility to activate a notification when creating a new reference
+- Integration with XOOPS
+- Ability to clone module
+- Cache Management to improve performance on a heavily used environment
+- Management of permissions categories
 
 ![image001.png](assets/image001.png)
 *Figure 1: Main view of the References Module (Admin side)*
