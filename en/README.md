@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module References
 #### for XOOPS 2.5.8
       
-![logoModule.png](en/assets/logoModule.png)
+![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
@@ -12,10 +12,24 @@
 
 ## Module Purpose 
 
-This module manages in a form a list of references to some news
+XOOPS References is a module that will allow you to create an unlimited number of customer references, which you can categorize the way you want.
 
-![image001.png](en/assets/image001.png)
+The main advantage of this product compared to existing solutions in the market is its ease of implementation, since this module is operational in less than 15 minutes (installation and configuration)
+ 
+The key features of each reference:
 
+- RSS Feed of recent references
+- Modern display with accordion effect and "Lightview"
+- Choice of the text editor to use to create references
+- Automatic creation of thumbnails of each screenshot
+- Ability to use a keyword system (TAGS)
+- Possibility to activate a notification when creating a new reference
+- Integration with XOOPS
+- Ability to clone module
+- Cache Management to improve performance on a heavily used environment
+- Management of permissions categories
+
+![image001.png](assets/image001.png)
 *Figure 1: Main view of the References Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
@@ -30,16 +44,16 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Miscellaneous](book/8other.md) 
+* [Module Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 
