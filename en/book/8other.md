@@ -10,7 +10,7 @@ If you want to clone the module, place this script in the root of your site and 
 Beforehand, make sure you have edited it to indicate the new name you want to give to the module.
  
 ####Other scripts in the Extra directory
-In the subdirectory 
+In the subdirectory: 
 
 ```
 /modules/rss/plugins/ 
