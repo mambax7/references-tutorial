@@ -71,6 +71,6 @@ This file contains "DEFINE" of which it is possible to change the values ​​t
 | -- | -- |
 | REFERENCES_CACHE_PATH | Tis option allows you to specify the location of SQL queries cache. The folder pointed to in this option must be writable. If possible, for security reasons, it is advisable to put this folder  outside the Document Root. |
 | REFERENCES_THUMBS_PREFIX |When the module generates thumbnails of each image, it uses the same name as the original image, but it adds a prefix defined in this option |
-| REFERENCES_SHORTEN_TEXT | 1:4 |
-| REFERENCES_METAGEN_MAX_KEYWORDS | 1:4 |
-| REFERENCES_METAGEN_KEYWORDS_ORDER | 1:4 |
+| REFERENCES_SHORTEN_TEXT |The module comes with a plugin for RssFit. This option limits the size of each reference to number of charactres you specify |
+| REFERENCES_METAGEN_MAX_KEYWORDS | On the index page, the module automatically generates meta keywords from the content of your references. This option allows you to specify the maximum number of meta keywords that will be generated |
+| REFERENCES_METAGEN_KEYWORDS_ORDER | Lets you specify in what order you want the meta keywords to be generated |
