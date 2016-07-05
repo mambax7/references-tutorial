@@ -1,5 +1,5 @@
 * [English](en)
-
+* [Français](fr)
 
 <!--
 * [Deutsch](de)
