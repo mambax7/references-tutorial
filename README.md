@@ -4,19 +4,19 @@
 
 ## Module References
 
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
       
 ![logoModule.png](.gitbook/assets/logomodule.png)
             
 ### User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ### Module Purpose
 
 This module manages in a form a list of references to some news
 
-![image001.png](.gitbook/assets/image001.png)
+![](.gitbook/assets/image001.png)
 
 _Figure 1: Main view of the References Module \(Admin side\)_
 
